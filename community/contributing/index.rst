@@ -6,6 +6,7 @@ Contributing
    :name: toc-community-contributing
 
    ways_to_contribute
+   reporting_a_bug
    pr_workflow
    code_style_guidelines
    bug_triage_guidelines
